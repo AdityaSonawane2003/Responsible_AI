@@ -1,0 +1,12 @@
+streamlit
+openai
+langchain
+langchain-community
+sentence-transformers
+chromadb
+numpy
+uuid
+guardrails-ai
+PyPDF2
+pypdf
+tiktoken
